@@ -82,7 +82,7 @@
         "name": "DeepseekCoder-6.7B-Vala",
         "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
         "urls": [
-            "https://huggingface.co/scowen/deepseek-coder-6.7b-vala/resolve/main/deepseekcoder-6.7b-vala.q8_0.gguf"
+            "https://huggingface.co/scowen/deepseek-coder-6.7b-vala/resolve/main/deepseekcoder-6.7B-vala.q8_0.gguf"
         ],
         "sha256": "864f921c8ea67c3be7f60267a94fe7183100065e30021684bddb405c0c3bb65f"
     }

@@ -84,6 +84,6 @@
         "urls": [
             "https://huggingface.co/scowen/deepseek-coder-6.7b-vala/resolve/main/deepseekcoder-6.7B-vala.q8_0.gguf"
         ],
-        "sha256": "864f921c8ea67c3be7f60267a94fe7183100065e30021684bddb405c0c3bb65f"
+        "sha256": "748f721fe01254e575d35e9e05aeb697214d173bbe7fbd1561e37190b163d871"
     }
 ]

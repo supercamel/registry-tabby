@@ -101,6 +101,14 @@
             "https://huggingface.co/scowen/deepseek-coder-6.7b-vala/resolve/main/qwen2.5-coder-7B-vala.q8_0.gguf"
         ],
         "sha256": "0a205e66cc14d14442c7b87c7d8f2cae2e924000f4168e70da73669c4b435d11"
+    },
+    {
+        "name": "Qwen2.5-Coder-7B",
+        "prompt_template": "<|fim_begin|>{prefix}<|fim_suffix|>{suffix}<|fim_middle|>",
+        "urls": [
+            "https://huggingface.co/neopolita/qwen2.5-coder-7b-gguf/resolve/main/qwen2.5-coder-7b_q8_0.gguf"
+        ],
+        "sha256": "95d13b27c78d00b2b759b29e969dcd9e3e27a7bfa3690b90d9beb8e23b4fa1a0"
     }
 ]
         

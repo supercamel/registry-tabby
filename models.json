@@ -95,6 +95,14 @@
         "sha256": "2950ecbcb8183cc3cf2c61f81e4c147dd67d86f8a7050e599ed3a9db25db7cc3"
     },
     {
+        "name": "DeepseekCoder-6.7B-Vala-v5",
+        "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
+        "urls": [
+            "https://huggingface.co/scowen/deepseek-coder-6.7b-vala/resolve/main/deepseekcoder-6.7B-vala5.q8_0.gguf"
+        ],
+        "sha256": "d7ed5711b3a5e2a69baa2d3616cf13e0a86c6e27fa6493664206135d472302ba"
+    },
+    {
         "name": "QwenCoder-7B-Vala",
         "prompt_template": "<|fim_begin|>{prefix}<|fim_suffix|>{suffix}<|fim_middle|>",
         "urls": [
